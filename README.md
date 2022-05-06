@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @auabake
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abuabakr
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning software development
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me auabake@gmail.com
 
 <!---
 auabake/auabake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
