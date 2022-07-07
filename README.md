@@ -3,9 +3,6 @@
 ### <div align="center">I'm Abubakar a software developer 👨‍💻 working remotely since 2016 🚀</div>  
   
 
-- 🔭 I’m currently working on Dashboard   
-  
-
 - 🌱 I’m currently learning AWS and Kubernetes  
   
 
