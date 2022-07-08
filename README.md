@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I Like learning new technologies.  
   
 
-<br/>  
+
 
 
 ## My Skill Set  
