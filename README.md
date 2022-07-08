@@ -44,7 +44,17 @@
 </div>
 
 </td><td valign="top" width="33%">
+  
+  
+  
+### Cloud
+<div align="center">   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="Git" height="50" />  
+</div>
 
+</td><td valign="top" width="33%">
+  
+ 
 
 ### DevOps  
 <div align="center">   
