@@ -1,6 +1,5 @@
 
 
-### <div align="center">Hi I'm a software developer 👨‍💻 working remotely 🚀</div>  
 ### Hi I'm a software developer 👨‍💻 working remotely 🚀  
  
 
