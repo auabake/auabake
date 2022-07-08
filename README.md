@@ -3,7 +3,7 @@
 ### <div align="center">Hi I'm a software developer 👨‍💻 working remotely 🚀</div>  
   
 
-- 🌱 I’m currently learning cloud computing on AWS, AZure and GCP.  
+- 🌱 I’m currently learning cloud computing on AWS, Azure and GCP.  
   
 
 - ❓ Speak English / Swahili.  
