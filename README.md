@@ -1,15 +1,15 @@
 
 
-### <div align="center">I'm a software developer 👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">Hi I'm a software developer 👨‍💻 working remotely 🚀</div>  
   
 
-- 🌱 I’m currently learning AWS and Kubernetes  
+- 🌱 I’m currently learning cloud computing on AWS, AZure and GCP.  
   
 
-- ❓ Speak English / Swahili  
+- ❓ Speak English / Swahili.  
   
 
-- ⚡ Fun fact: Like learning new technologies  
+- ⚡ Fun fact: I Like learning new technologies.  
   
 
 <br/>  
