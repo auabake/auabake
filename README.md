@@ -38,6 +38,15 @@
 
 
 
+### Web
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Python" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
 ### Database
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Git" height="50" />  
