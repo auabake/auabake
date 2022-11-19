@@ -1,6 +1,6 @@
 
 
-### Hi I'm a software developer 👨‍💻 working remotely 🚀  
+### Hi I'm a software developer 👨‍💻 working remotely 🚀  ![Profile views counter](https://komarev.com/ghpvc/?username=auabake&&style=flat-square)  
  
 
 - 🌱 I’m currently learning cloud computing on AWS and Azure.
