@@ -1,12 +1,9 @@
 
 
-### Hi I'm a software developer 👨‍💻 working remotely 🚀
+### Hi I'm a software Engineer 👨‍💻 working remotely 🚀
  
 
-- 🌱 I’m currently learning cloud computing on AWS and Azure.
-  
-
-- ❓ Speak English / Swahili.  
+- 🌱 I’m currently learning cloud computing on AWS, Azure and GCP.
   
 
 - ⚡ Fun fact: I Like learning new technologies.  
