@@ -3,7 +3,7 @@
 ### Hi I'm a software Engineer 👨‍💻 working remotely 🚀
  
 
-- 🌱 I’m currently learning cloud engineering on AWS, Azure and GCP.
+- 🌱 I’m currently learning cloud engineering on AWS and Azure.
   
 
 - ⚡ Fun fact: I Like learning new technologies.  
